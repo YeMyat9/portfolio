@@ -15,12 +15,12 @@ socialButton3.addEventListener('click', function() {
 
 const pro1 = document.getElementById('p1');
 pro1.addEventListener('click', function() {
-    window.location.href = 'https://yemyat144.github.io/YOLO/home.html';
+    window.location.href = 'https://yemyat144.github.io/YOLO/';
 });
 
 const pro2 = document.getElementById('p2');
 pro2.addEventListener('click', function() {
-    window.location.href = 'https://yemyat144.github.io/Menu_Page_javascript/maryjane/index.html';
+    window.location.href = 'https://yemyat144.github.io/Menu_Page_javascript/maryjane/';
 });
 // const pro3 = document.getElementById('p3');
 // pro3.addEventListener('click', function() {
@@ -28,7 +28,7 @@ pro2.addEventListener('click', function() {
 // });
 const pro4 = document.getElementById('p4');
 pro4.addEventListener('click', function() {
-    window.location.href = 'https://yemyat144.github.io/YOLO/home.html';
+    window.location.href = 'https://yemyat144.github.io/YOLO/';
 });
 
 
